@@ -1,7 +1,7 @@
 ---
-title: My second blog post
+title: learning notes on Vue (version 3)
 description: Welcome to my second blog post using the content module.
-slug: second-post
+slug: learning-notes-on-Vue
 img: https://www.tutorialrepublic.com/lib/images/javascript-illustration.png
 ---
 

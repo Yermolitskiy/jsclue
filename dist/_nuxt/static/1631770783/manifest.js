@@ -1,1 +1,0 @@
-__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Fabout","\u002Fsecond-post","\u002Fhow-to-deploy-nuxt-app-to-heroku"]})

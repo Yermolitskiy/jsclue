@@ -1,6 +1,15 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  // generate: {
+  //   cache: {
+  //     ignore: [
+  //       // When something changed in the docs folder, do not re-build via webpack
+  //       'docs',
+  //       'content/blog',
+  //     ]
+  //   }
+  // },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {

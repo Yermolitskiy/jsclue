@@ -21,6 +21,7 @@ article {
   margin: 0 auto;
   padding: 50px 30px;
   max-width: 800px;
+  line-height: 2;
 }
 h1 {
   font-size: 28px;

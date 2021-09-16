@@ -47,6 +47,7 @@ h2 {
 }
 .article {
   margin-bottom: 15px;
+  font-family: 'Electrolize', sans-serif;
 }
 .article-inner {
   padding: 15px;
@@ -70,6 +71,7 @@ h3 {
   text-decoration: none;
 }
 p {
+  padding: 5px;
   color: #888;
   font-size: 18px;
   text-decoration: none;

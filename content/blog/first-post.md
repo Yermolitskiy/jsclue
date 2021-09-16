@@ -14,4 +14,5 @@ This website is the actual example of howt the <a href="https://heroku.com/">Her
 3. push to git
 4. change package.json
 5. change .gitignore
+6. add Procfile
 6. push to Heroku
